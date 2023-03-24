@@ -1,7 +1,7 @@
 
 <br/><h3><b> Bachelors of Science in Computer Science with a concentration in Software Engineering &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; obtained from Souther New Hampshire University in March 2023</b></h3>
 
-##GPA 3.7
+<br/><h2><b>GPA 3.7 </b></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msfbgh&langs_count=10)](https://github.com/msfbgh/github-readme-stats)
 
