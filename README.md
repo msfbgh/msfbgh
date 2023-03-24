@@ -1,6 +1,5 @@
 
 <br/><h3><b>Bachelors of Science in Computer Science with a concentration in Software Engineering                    obtained from Souther New Hampshire University in March 2023</b></h3>
-obtained from Souther New Hampshire University in March 2023
 
 ## 3.7 GPA
 
